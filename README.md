@@ -1,5 +1,11 @@
-## Hi there 👋
+I have a proficient understanding of the Javascript language and syntax, as well as familiarity with HTML, CSS, and Node.js.
 
+- I'm interested in blockchain development, machine learning, and backend web development.
+- I want to improve my knowledge in data structures and algorithims, learn Typescript, and become familiar with React.js, Bootstrap, and other frontend development tools.
+- I'm currently working on an app which involves utilizing smart contracts to work with ERC-20 and BEP-20 tokens on the Ethereum and BSC blockchains, respectively.
+- I love programming because there's always something new to learn.
+
+ 
 <!--
 **alibatz/alibatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
