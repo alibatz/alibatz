@@ -2,7 +2,8 @@ I have a proficient understanding of the Javascript language and syntax, as well
 
 - I'm interested in blockchain development, machine learning, and backend web development.
 - I want to improve my knowledge in data structures and algorithims, learn Typescript, and become familiar with React.js, Bootstrap, and other frontend development tools.
-- I'm currently working on an app which involves utilizing smart contracts to work with ERC-20 and BEP-20 tokens on the Ethereum and BSC blockchains, respectively.
+- ~~I'm currently working on an app which involves utilizing smart contracts to work with ERC-20 and BEP-20 tokens on the Ethereum and BSC blockchains, respectively.~~
+- A basic version of the ERC20 launch sniper I've mentioned above is done, only working on ethereum. I'm working on tweaking it for public use and releasing the code here, where I will continue my work from now on.
 - I love programming because there's always something new to learn.
 
  
